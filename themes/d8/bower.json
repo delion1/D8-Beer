@@ -15,5 +15,9 @@
     "test",
     "tests"
   ],
-  "private": true
+  "private": true,
+  "authors": [
+    "D. Elion <d.elion@claritypartners.com>"
+  ],
+  "main": ""
 }

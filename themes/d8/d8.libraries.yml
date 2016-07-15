@@ -2,6 +2,6 @@ global:
   version: VERSION
   css:
     base:
-      css/ddesigns.css: {}
+      css/d8.css: {}
   js:
-    js/ddesigns.js: {}
+    js/d8.js: {}

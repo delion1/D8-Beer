@@ -1,4 +1,4 @@
-name: ddesigns
+name: D8
 description: "Custom sub-theme, inherits from the Foundation base theme read <a href=\"http://foundation.zurb.com/docs/index.php\">framework documentation</a>"
 core: 8.x
 type: theme
@@ -7,10 +7,10 @@ base theme: zurb_foundation
 # Image appears on admin/appearance
 # screenshot: images/screenshot.jpg
 
-# Uncomment these lines and change "ddesigns" to your theme name if you
+# Uncomment these lines and change "d8" to your theme name if you
 # need to add custom CSS or JS
 libraries:
- - ddesigns/global
+ - d8/global
 
 # Regions are output in the page.html.twig
 

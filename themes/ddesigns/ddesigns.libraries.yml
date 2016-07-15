@@ -1,0 +1,7 @@
+global:
+  version: VERSION
+  css:
+    base:
+      css/ddesigns.css: {}
+  js:
+    js/ddesigns.js: {}
